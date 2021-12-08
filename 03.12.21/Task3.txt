@@ -1,0 +1,2 @@
+Find a way to open google.com web site in terminal(via headless browser)
+Screenshot from task3 03.12.21

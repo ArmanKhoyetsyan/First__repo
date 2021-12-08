@@ -1,0 +1,2 @@
+Specify a command to remove every file in a directory with .txt extension.
+Screenshot from task3 06.12.21

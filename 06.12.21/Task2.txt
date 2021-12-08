@@ -1,0 +1,2 @@
+Create new directory with the files including (with simple file contents) and play with the directory permissions. Provide the commands list to show how directory permission work. Provide different configurations (r, w, x, rw, rx, wx).
+Screenshot from task2 06.12.21

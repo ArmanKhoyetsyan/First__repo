@@ -1,0 +1,2 @@
+Install the package from the following url (https://drive.google.com/uc?id=1WsagOqZaGm7gWDt1Q54ol7ucLphy8XPA&export=download) (use commands: wget, tar,  dpkg)
+Screenshot from task1 06.12.21
