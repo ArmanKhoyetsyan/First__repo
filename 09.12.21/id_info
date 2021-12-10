@@ -1,14 +1,17 @@
 #!/bin/bash
-  if [ -e $1 ];
-     then
-	
-	  mkdir {0..9}
-	  mkdir {0..9}/{0..9}
-	
-	  name1=$((($2 - `expr $2 % 10`) / 10))
-	  name2=`expr $2 % 10`
 
-     	  mv $1 $name1/$name2
-          
-  	  else echo "erorr"
-  fi
+if [ -e $1 ];
+  then
+  
+   mkdir {0..9}
+   mkdir {0..9}/{0..9}
+
+
+   name1=$((($2 - `expr $2 % 10`) / 10))
+   name2=`expr $2 % 10`
+   
+    mv $1 $name1/$name2
+
+  else echo "erorr"
+
+fi
